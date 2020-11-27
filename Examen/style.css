@@ -1,0 +1,39 @@
+img.marca{
+    text-align: center;
+}
+*{
+    background-color: burlywood;
+}
+p.enlace{
+    background-color:yellow;
+    text-align: center;
+}
+img.img1{
+    text-align: left;
+}
+p.text{
+    background-color: white;
+    color: blue;
+}
+section.text{
+    background-color: white;
+}
+img.img2{
+    text-align: right;
+    all: 100px;
+    width: 150px;
+}
+p.text2{
+    background-color: white;
+    color: red;
+}
+
+section.text2{
+    background-color: white;
+}
+p.footer{
+    text-align: center;
+}
+span{
+    text-decoration: yellow;
+}

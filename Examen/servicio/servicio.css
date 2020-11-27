@@ -1,0 +1,26 @@
+
+img{
+    text-align: center;
+}
+*{
+    background-color: burlywood;
+}
+p.enlace{
+    background-color:yellow;
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+section.practicas{
+    background-color: chartreuse;
+}
+div{
+    background-color: chartreuse;
+}
+p.footer{
+    text-align: center;
+}
+span{
+    text-decoration: yellow;
+}

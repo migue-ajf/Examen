@@ -1,0 +1,17 @@
+img.marca{
+    text-align: center;
+}
+*{
+    background-color: burlywood;
+}
+p.enlace{
+    background-color:yellow;
+    text-align: center;
+}
+table{
+    border: red 1px solid;
+
+}
+td,th{
+    border: blue 1px solid;
+}
